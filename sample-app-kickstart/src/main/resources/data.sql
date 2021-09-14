@@ -19,3 +19,4 @@ insert into employee (id, first_name, last_name, position, salary, age, departme
 insert into employee (id, first_name, last_name, position, salary, age, department_id, organization_id) values (5, 'Peter', 'Wright', 'Director', 50000, 50, 4, 2);
 insert into employee (id, first_name, last_name, position, salary, age, department_id, organization_id) values (6, 'Alan', 'Murray', 'Developer', 20000, 37, 4, 2);
 insert into employee (id, first_name, last_name, position, salary, age, department_id, organization_id) values (7, 'Pamela', 'Anderson', 'Analyst', 7000, 27, 4, 2);
+insert into employee (id, first_name, last_name, position, salary, age, department_id, organization_id) values (8, 'Vikas', 'Nalawade', 'Architect', 200000, 38, 1, 1);
